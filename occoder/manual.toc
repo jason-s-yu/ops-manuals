@@ -1,28 +1,29 @@
 \contentsline {section}{\numberline {1}Processes and Procedures}{3}{section.1}
 \contentsline {subsection}{\numberline {1.1}Operational Plans}{3}{subsection.1.1}
 \contentsline {subsection}{\numberline {1.2}Facility Requests}{3}{subsection.1.2}
-\contentsline {subsection}{\numberline {1.3}Volunteer Responsibilities}{3}{subsection.1.3}
-\contentsline {subsubsection}{\numberline {1.3.1}Ardent Facilities}{3}{subsubsection.1.3.1}
-\contentsline {subsection}{\numberline {1.4}Organization and Hierarchy}{3}{subsection.1.4}
-\contentsline {subsection}{\numberline {1.5}Job Responsibilities}{3}{subsection.1.5}
-\contentsline {subsection}{\numberline {1.6}Registration and Membership}{3}{subsection.1.6}
-\contentsline {section}{\numberline {2}Communications and Repository}{4}{section.2}
-\contentsline {subsection}{\numberline {2.1}Communication by Email}{4}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Communication and Workflow Tools}{4}{subsection.2.2}
-\contentsline {subsubsection}{\numberline {2.2.1}Slack}{4}{subsubsection.2.2.1}
-\contentsline {subsubsection}{\numberline {2.2.2}Trello}{4}{subsubsection.2.2.2}
-\contentsline {subsubsection}{\numberline {2.2.3}Google Drive}{4}{subsubsection.2.2.3}
-\contentsline {section}{\numberline {3}Inventory and Materials}{5}{section.3}
-\contentsline {section}{\numberline {4}Chapters and Subsidiaries}{6}{section.4}
-\contentsline {section}{\numberline {5}Junior Coding Department}{7}{section.5}
-\contentsline {subsection}{\numberline {5.1}Instructional Procedures}{7}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}Scratch}{7}{subsection.5.2}
-\contentsline {subsubsection}{\numberline {5.2.1}Curriculum}{7}{subsubsection.5.2.1}
-\contentsline {subsection}{\numberline {5.3}JavaScript}{7}{subsection.5.3}
-\contentsline {subsubsection}{\numberline {5.3.1}Curriculum}{7}{subsubsection.5.3.1}
-\contentsline {section}{\numberline {6}Girls Who Code Department}{8}{section.6}
-\contentsline {section}{\numberline {7}Senior Center Department}{9}{section.7}
-\contentsline {section}{\numberline {8}Events Department}{10}{section.8}
-\contentsline {subsection}{\numberline {8.1}STEAM in the Park}{10}{subsection.8.1}
-\contentsline {subsection}{\numberline {8.2}Hour of Code}{10}{subsection.8.2}
-\contentsline {subsection}{\numberline {8.3}SFA Open House}{10}{subsection.8.3}
+\contentsline {subsubsection}{\numberline {1.2.1}Ardent Facilities}{3}{subsubsection.1.2.1}
+\contentsline {subsection}{\numberline {1.3}Organization Roles and Responsibilities}{3}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}President}{3}{subsubsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.2}Director of Junior Coding Club (3)}{4}{subsubsection.1.3.2}
+\contentsline {subsubsection}{\numberline {1.3.3}Director of Senior Center (2)}{4}{subsubsection.1.3.3}
+\contentsline {subsubsection}{\numberline {1.3.4}Director of Girls Who Code (1)}{4}{subsubsection.1.3.4}
+\contentsline {subsubsection}{\numberline {1.3.5}Director of Events (2)}{4}{subsubsection.1.3.5}
+\contentsline {section}{\numberline {2}Communications and Repository}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}Communication by Email}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Communication and Workflow Tools}{5}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Slack}{5}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Trello}{5}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Google Drive}{5}{subsubsection.2.2.3}
+\contentsline {section}{\numberline {3}Chapters and Subsidiaries}{6}{section.3}
+\contentsline {section}{\numberline {4}Junior Coding Department}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}Instructional Procedures}{7}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Lead Instructors}{7}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}General Volunteers}{7}{subsubsection.4.1.2}
+\contentsline {subsection}{\numberline {4.2}Scratch}{7}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Curriculum}{7}{subsubsection.4.2.1}
+\contentsline {subsection}{\numberline {4.3}JavaScript}{7}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Curriculum}{7}{subsubsection.4.3.1}
+\contentsline {section}{\numberline {5}Events Department}{8}{section.5}
+\contentsline {subsection}{\numberline {5.1}STEAM in the Park}{8}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Hour of Code}{8}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}SFA Open House}{8}{subsection.5.3}
